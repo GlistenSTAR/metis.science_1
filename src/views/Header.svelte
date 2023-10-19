@@ -17,9 +17,9 @@
 			{#if is_open}
 				<div class="opened_menu">
 					<li><a href="#metis-features">Why Metis?</a></li>
-					<li><a href="#metis-backend">Software Details</a></li>
-					<li><a href="#metis-scientific">Scientific Details</a></li>
-					<li><a href="#metis-download">Download and Try</a></li>
+					<li><a href="#metis-backend">Synchrotrons</a></li>
+					<li><a href="#metis-scientific">Simulations</a></li>
+					<li><a href="https://app.metis.science">Try Metis</a></li>
 				</div>
 			{/if}
 		</div>
@@ -94,10 +94,10 @@
 		transition: transform 0.3s ease-in-out;
 	}
 	.cross::before {
-		transform: translateY(5px) rotate(-148deg);
+		transform: translateY(7px) rotate(-148deg);
 	}
 	.cross::after {
-		transform: translateY(-5px) rotate(148deg);
+		transform: translateY(-7px) rotate(148deg);
 	}
 	.opened_menu {
 		position: absolute;
@@ -119,7 +119,7 @@
 			}
 		}
 		li a {
-			color: #fff;
+			color: #ff0;
 		}
 	}
 

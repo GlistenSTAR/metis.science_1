@@ -25,6 +25,8 @@
 
 	<XRay />
 
+	<Team />
+
 	<Ready />
 </main>
 
@@ -41,6 +43,7 @@
 	import BFF from './BFF.svelte';
 	import Crystalline from './Crystalline.svelte';
 	import XRay from './XRay.svelte';
+	import Team from './Team.svelte';
 	import Ready from './Ready.svelte';
 </script>
 

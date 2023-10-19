@@ -4,8 +4,9 @@
 			<Col col="7">
 				<div class="hero_content">
 					<Hero>
-						<h1>Metis is your new</h1>
-						<h1 class="text-primary">virtual materials lab</h1>
+						<h1>Metis &mdash;</h1>
+						<!-- h1 class="text-primary">virtual materials lab</h1 -->
+						<h1 class="text-primary">synchrotrons as a service</h1>
 					</Hero>
 				</div>
 			</Col>

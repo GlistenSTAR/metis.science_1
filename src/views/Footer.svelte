@@ -13,17 +13,17 @@
 			<Col col={!$media.md ? '3' : '2'}>
 				<div class="footer_about">
 					<h1>About</h1>
-					<li><a href="#">Contacts</a></li>
-					<li><a href="#">Team</a></li>
+					<li><a href="#metis-team">Team</a></li>
 					<li><a href="#">Press Kit</a></li>
+					<li><a href="#">Investor Relations</a></li>
 				</div>
 			</Col>
 			<Col col="3">
 				<div class="footer_product">
 					<h1>Product</h1>
 					<li><a href="#metis-features">Why Metis?</a></li>
-					<li><a href="#metis-backend">Software Details</a></li>
-					<li><a href="#metis-scientific">Scientific Details</a></li>
+					<li><a href="#metis-backend">Synchrotrons</a></li>
+					<li><a href="https://app.metis.science">Try Metis</a></li>
 					<li><a href="https://kit.metis.science">User Interface Kit</a></li>
 				</div>
 			</Col>
@@ -32,29 +32,29 @@
 					<h1>Transparency</h1>
 					<li><a href="#">Terms</a></li>
 					<li><a href="#">Privacy</a></li>
-					<li><a href="https://github.com/tilde-lab/metis.science">This site on GitHub</a></li>
+					<li><a href="https://github.com/metis-science/metis.science">This site on GitHub</a></li>
 				</div>
 			</Col>
 		{:else}
 			<Col col="8">
 				<div class="footer_about">
 					<h1>About</h1>
-					<li><a href="#">Contacts</a></li>
-					<li><a href="#">Team</a></li>
+					<li><a href="#metis-team">Team</a></li>
 					<li><a href="#">Press Kit</a></li>
+					<li><a href="#">Investor Relations</a></li>
 				</div>
 				<div class="footer_product">
 					<h1>Product</h1>
 					<li><a href="#metis-features">Why Metis?</a></li>
-					<li><a href="#metis-backend">Software Details</a></li>
-					<li><a href="#metis-scientific">Scientific Details</a></li>
+					<li><a href="#metis-backend">Synchrotrons</a></li>
+					<li><a href="https://app.metis.science">Try Metis</a></li>
 					<li><a href="https://kit.metis.science">User Interface Kit</a></li>
 				</div>
 				<div class="footer_legal">
 					<h1>Transparency</h1>
 					<li><a href="#">Terms</a></li>
 					<li><a href="#">Privacy</a></li>
-					<li><a href="https://github.com/tilde-lab/metis.science">This site on GitHub</a></li>
+					<li><a href="https://github.com/metis-science/metis.science">This site on GitHub</a></li>
 				</div>
 			</Col>
 			<Col col="4">
